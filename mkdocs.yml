@@ -2,6 +2,7 @@ site_name: Wolotify
 site_description: A journey through the world of deep wolof
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Space Grotesk
     code: Roboto Mono
@@ -77,3 +78,15 @@ plugins:
   
   - tags:
       enabled: false
+  
+  - git-committers:
+      enabled: true
+      repository: Ahmath-Gadji/tuto-mkdocs
+      branch: master
+      token: !ENV GIT_TOKEN
+  
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: false
+      enable_creation_date: true
+      enabled: true
