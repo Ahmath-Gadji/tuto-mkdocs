@@ -1,4 +1,5 @@
 site_name: Wolotify
+site_description: A journey through the world of deep wolof
 theme:
   name: material
   font:
@@ -24,7 +25,10 @@ theme:
         name: Light mode
       primary: cyan
       accent: deep purple
-  
+
+hooks:
+  - hooks/socialmedia.py
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -59,3 +63,17 @@ extra:
       link: https://x.com/wolofity
 
 copyright: Copyright &copy; 2025, Wolotify
+
+plugins:
+  - search
+  - blog:
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      categories_allowed:
+        - Tech
+        - Lifestyle
+        - Life
+      post_url_format: "{slug}"
+  
+  - tags:
+      enabled: false

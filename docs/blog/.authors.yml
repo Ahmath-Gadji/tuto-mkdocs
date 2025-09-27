@@ -1,0 +1,13 @@
+authors:
+  squidfunk:
+    name: Martin Donath
+    description: Creator
+    avatar: https://github.com/squidfunk.png
+  lone-wolf:
+    name: The Lone Wolf
+    description: The wolotify creators
+    avatar: https://simpleicons.org/icons/librewolf.svg
+  lion:
+    name: The Lion King
+    description: The contributor
+    avatar: https://simpleicons.org/icons/lionair.svg
