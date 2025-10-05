@@ -3,13 +3,23 @@ site_description: A journey through the world of deep wolof
 theme:
   name: material
   custom_dir: overrides
+  language: fr
   font:
-    text: Space Grotesk
+    text: Space Grotesk # Bricolage Grotesque # 
     code: Roboto Mono
   icon:
-    logo: fontawesome/solid/w
+    logo: fontawesome/brands/wolf-pack-battalion
   features:
     - navigation.footer
+    - header.autohide
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - search.share
+
   palette: 
     # Dark Mode
     - scheme: slate
@@ -17,25 +27,31 @@ theme:
         icon: material/weather-sunny
         name: Dark mode
       primary: deep purple
-      accent: cyan
+      accent: teal
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: cyan
-      accent: deep purple
+      primary: deep purple
+      accent: teal
 
 hooks:
   - hooks/socialmedia.py
 
 markdown_extensions:
-  - attr_list
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-    
+  - toc:
+      permalink: true
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -54,19 +70,26 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 extra:
+  # alternate:
+  #   - name: English
+  #     link: /en/
+  #     lang: en 
+  
   social:
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/@wolofity
+      link: https://youtube.com/@wolotify
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/wolofity
-    
+      link: https://instagram.com/wolotify
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/wolofity
+      link: https://x.com/wolotify
 
 copyright: Copyright &copy; 2025, Wolotify
 
 plugins:
   - search
+  - glightbox
+  - social:
+      cards_layout: default/accent
   - blog:
       archive_date_format: yyyy
       archive_url_date_format: yyyy
@@ -79,14 +102,30 @@ plugins:
   - tags:
       enabled: false
   
-  - git-committers:
-      enabled: true
-      repository: Ahmath-Gadji/tuto-mkdocs
-      branch: master
-      token: !ENV GIT_TOKEN
+  # - git-committers:
+  #     enabled: true
+  #     repository: Ahmath-Gadji/tuto-mkdocs
+  #     branch: master
+  #     token: !ENV GIT_TOKEN
   
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: false
       enable_creation_date: true
-      enabled: true
+      enabled: true  
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Cours wolof :
+    - "Alphabet & phonétique et règles d'écritures":
+        - 'Introduction': 'cours/alphabet_phonetics_writing_rules/1-introduction.md'
+        - 'Alphabet Latin Wolof': 'cours/alphabet_phonetics_writing_rules/2-alphabet_wolof.md'
+
+  - Articles:
+      - 'Mes recents articles': blog/index.md
+
+
+# https://github.com/squidfunk/mkdocs-material/discussions/2228

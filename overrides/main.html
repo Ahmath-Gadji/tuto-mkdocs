@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+<!-- Custom front matter -->
+{% block extrahead %}
+    <!-- Extra style sheets (can't be set in mkdocs.yml due to content hash) -->
+    <link
+        rel="stylesheet"
+        href="{{ 'assets/stylesheets/custom.css' | url }}"
+    />
+{% endblock %}
+
+<!-- Announcement bar -->
+{% block announce %}
+    Stay connected with <strong>@wolotify</strong> by following us on these social media platforms:
+    <a href="https://youtube.com/@wolotify">
+        <span class="twemoji youtube">
+            {% include ".icons/fontawesome/brands/youtube.svg" %}
+        </span>
+        <strong>YouTube</strong>
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://instagram.com/wolotify">
+        <span class="twemoji instagram">
+            {% include ".icons/fontawesome/brands/instagram.svg" %}
+        </span>
+        <strong>Instagram</strong>
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://x.com/wolotify">
+        <span class="twemoji x-twitter">
+            {% include ".icons/fontawesome/brands/x-twitter.svg" %}
+        </span>
+        <strong>Twitter</strong>
+    </a>
+{% endblock %}
+
+<!-- Theme-related JavaScript -->
+{% block scripts %}
+    {{ super() }}
+    <!-- Extra JavaScript (can't be set in mkdocs.yml due to content hash) -->
+    <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
+{% endblock %}
