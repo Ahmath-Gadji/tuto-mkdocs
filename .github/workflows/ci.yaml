@@ -1,39 +1,34 @@
-name: ci
+name: Deploy to GitHub Pages
+
 on:
   push:
     branches:
       - master
       - main
+  workflow_dispatch:
+
+# Grant GITHUB_TOKEN the permissions required to make a Pages deployment
 permissions:
-  contents: write
+  pages: write      # to deploy to Pages
+  id-token: write   # to verify the deployment originates from an appropriate source
+  contents: read    # to checkout the code
+
+# Prevent the action from running multiple times in parallel
+concurrency: pages-build-and-deploy
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
       - name: Install uv
-        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+        uses: astral-sh/setup-uv@v5
 
-      - name: Add uv to PATH
-        run: echo "$HOME/.cargo/bin" >> $GITHUB_PATH
-
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-
-      - uses: actions/cache@v4
+      - uses: actions/setup-python@v5
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: |
-            ~/.cache
-            ~/.cache/uv
-          restore-keys: |
-            mkdocs-material-
-      
+          python-version: '3.x'
+
       - name: Install dependencies
         run: uv sync --all-extras --dev
 
@@ -43,5 +38,30 @@ jobs:
         run: |
           envsubst < mkdocs.template.yml > mkdocs.yml
 
-      - name: Deploy documentation
-        run: uv run mkdocs gh-deploy --force
+      - name: Cache MkDocs assets
+        uses: actions/cache@v4
+        with:
+          key: mkdocs-${{ hashFiles('mkdocs.yml') }}
+          path: .cache
+
+      - name: Build site
+        run: uv run mkdocs build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "site"
+
+      - name: Minimize uv cache
+        run: uv cache prune --ci
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
