@@ -2,7 +2,7 @@
 description: This is an introduction of the course
 icon: material/star-shooting
 date:
-  created: 2024-01-01
+  created: 2025-10-06
 ---
 
 ## 1. Origine du terme wolof
