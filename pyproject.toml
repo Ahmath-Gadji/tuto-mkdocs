@@ -8,6 +8,7 @@ dependencies = [
     "cairosvg>=2.8.2",
     "mkdocs-git-committers-plugin-2>=2.5.0",
     "mkdocs-glightbox>=0.5.1",
+    "mkdocs-material>=9.6.21",
     "pillow>=11.3.0",
     "pip>=25.2",
 ]
