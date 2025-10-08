@@ -72,7 +72,7 @@ markdown_extensions:
 extra:
   analytics:
     provider: google
-    property: G-XXXXXXXXX
+    property: !ENV [GOOGLE_ANALYTICS, 'G-XXXXXXXXX']
     feedback:
       title: Cette page vous a-t-elle été utile ?
       ratings:
