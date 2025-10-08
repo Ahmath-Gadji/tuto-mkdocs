@@ -34,16 +34,16 @@ jobs:
       - name: Install dependencies
         run: uv sync --all-extras --dev
 
-      # - name: Generate mkdocs.yml from template
-      #   env:
-      #     GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
-      #   run: |
-      #     envsubst < mkdocs.template.yml > mkdocs.yml
-      #     echo "✅ mkdocs.yml generated successfully"
-      #     if grep -q "\$GOOGLE_ANALYTICS_ID" mkdocs.yml; then
-      #       echo "❌ ERROR: GOOGLE_ANALYTICS_ID was not substituted!"
-      #       exit 1
-      #     fi
+      - name: Generate mkdocs.yml from template
+        env:
+          GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
+        run: |
+          envsubst < mkdocs.template.yml > mkdocs.yml
+          echo "✅ mkdocs.yml generated successfully"
+          if grep -q "\$GOOGLE_ANALYTICS_ID" mkdocs.yml; then
+            echo "❌ ERROR: GOOGLE_ANALYTICS_ID was not substituted!"
+            exit 1
+          fi
 
       - name: Cache MkDocs assets
         uses: actions/cache@v4
