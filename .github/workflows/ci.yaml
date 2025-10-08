@@ -19,6 +19,8 @@ concurrency: pages-build-and-deploy
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+        GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
     steps:
       - uses: actions/checkout@v4
 
