@@ -29,7 +29,7 @@ Quelques précisions sur certaines consonnes
 * s – sago s-: sans-froid | sas w-: tâche | sàng: couvrir d’une couverture | sàppe s-: rangée de fidèles à la prière.  
 * t – tabax: construire, bâtir | torlu: signer | tu**dd**: nommer | tukkurmuut j-: euphorie | tusngal j-: khôl | Tata j(5) : muraille d’enceinte
 </div>
-1.  Distinguez bien la prononciation entre **bëtt** et **bët** : lorsque la consonne est doublée (géminée, ici deux `t`), sa prononciation est plus appuyée et marquée.
+1. Distinguez bien la prononciation entre **bëtt** et **bët** : lorsque la consonne est doublée (géminée, ici deux `t`), sa prononciation est plus appuyée et marquée.
 2. Comme pour **bëtt**, ici la lettre **g** est doublée et doit donc être prononcée plus fortement.
 3. **fegu, `verbe` = feg + u (suffixe)**. feg signifie `barrer la route à qqn dans sa course`. Nous verrons les suffixes dans les prochains chapitres
 4. Loolu, weddiwuma ko gaa = ça, je ne le nie certes pas.
@@ -83,7 +83,7 @@ Quelques précisions sur certaines consonnes
     
     Ainsi **xamadi** signifie littéralement (**`ne pas savoir`**). Cependant, on l’utilise pour qualifier quelqu’un de grossier / impoli / mal élevé / **`insolent`**. Ainsi ce mot résume bien la phrase suivante ( je ne sais plus de qui ): **Ton `insolence` n'est que le reflet de ton `ignorance`**
 
-2. Xar est utilisé pour désigner une personne en transe ou en épilepsie. Lorsqu'une telle personne retrouve sa lucidité on dit "daa **xeri**". Nous verrons les suffixes inversifs comme le suffixe **`"-i"`** au [chapitre 3](). Ceci explique justement les inversifs suivants
+2.  Xar est utilisé pour désigner une personne en transe ou en épilepsie. Lorsqu'une telle personne retrouve sa lucidité on dit "daa **xeri**". Nous verrons les suffixes inversifs comme le suffixe **`"-i"`** au [chapitre 3](). Ceci explique justement les inversifs suivants
 
     * xar ⇒ xeri tout comme on l'observe dans d'autres mots: 
     * ub (fermer) ⇒ ubbi (ouvrir)
@@ -121,38 +121,45 @@ Quelques précisions sur certaines consonnes
 
 ##  2. Les Voyelles
 
-* a – c’est une voyelle courte; plus courte que le **“a”** français   
-  * l**a**l b-: lit | k**a**f: plaisanter | f**a**s w-: cheval  
-* à – c’est le son **a** du français. Cette voyelle est plus ouverte. Faites bien la discernation entre **“a”** et **“à”**  
-  * l**à**kk b-: enclos vs l**à**kk w-: langue vs l**a**kk g-: incendie   
-  * wacc: laisser | wàcc: descendre  
-  * takk b-: souvenir, repère | takk g-: mariage | tàkk: flamber, brûler  
-  * matt m-: bois de chauffage | màtt w-: punaise de lit  
-  * and b-: encensoir | ànd b-: camaraderie; placenta
+<div class="annotate" markdown>
+* a – c’est une voyelle courte; plus courte que le **"a"** français
+    * l**a**l b-: lit | k**a**f: plaisanter | f**a**s w-: cheval  
 
- 
+* à – c’est le son **a** du français. Cette voyelle est plus ouverte. Faites bien la discernation entre **"a"** et **"à"**
+    * l**à**kk b-: enclos vs l**à**kk w-: langue vs l**a**kk g-: incendie   
+    * wacc: laisser | wàcc: descendre  (bien insister sur le "c" doublé)
+    * takk b-: souvenir, repère | takk g-: mariage | tàkk: flamber, brûler  
+    * matt m-: bois de chauffage | màtt w-: punaise de lit  
+    * and b-: encensoir | ànd b-: compagnie; camaraderie; placenta; 
 
 * e – c’est le son **è** ou **ê** du français comme dans **tête**, **très**  
-  * set: propre | der w-: peau; réputation | cere j: couscous de mil  
+    * set: propre | der w-: peau; réputation | cere j: couscous de mil 
+    
 * **é** – Le son n’est pas équivalent au **é** du français. Également faites bien la discernation entre **“e”** et **“é”**.  
-  * g**é**nn: sortir | gént g-: rêve | géex: roter | réew m-: pays | kéew m-: environnement | géew b-: espace délimité par des personnes formant un cercle
+    * g**é**nn: sortir | gént g-: rêve | géex (1): roter | réew m-: pays | kéew m-: environnement | géew b-: espace délimité par des personnes formant un cercle
 
-	⇒ Encore une fois, faites bien la différence entre "e" et "é".
+    > Encore une fois, faites bien la différence entre "e" et "é".
 
-* **ë** – c’est le son **“e”** du français comme dans d**e**main  
-  * bët: oeil | fënëx: être vermoulu | gëq: régurgiter | gërëm: remercier   
+* **ë** – c’est le son **"e"** du français comme dans d**e**main  
+    * bët: oeil | fënëx: être vermoulu | gëq: régurgiter | gërëm: remercier   
 * **i** – c’est le son **i** dans **cil** en français  
-  * indi: apporter, amener | cin l-: marmite | dig: promettre | digg b-: milieu, centre   
+    * indi: apporter, amener | cin l-: marmite | dig: promettre | digg b- (attentin au g doublé): milieu, centre   
 * o: c’est le o ouvert de pomme  
-  * gor: abattre, entailler, couper (un arbre ou une branche) | gor b-: espace dégagé par abattage des arbres | gor s-: homme de condition libre, homme d’honneur | goro b-: beau-père; belle-mère    
-* **ó** équivalent du “**ô / au**” en français mais de manière brève  
-  * jóg: se lever | óbbali: bâiller | yónni: envoyer quelqu’un en mission | yóbbe: occasionner (quelque chose) à quelqu’un, causer | óom b-: genou  
-* **u** \- c’est le son “**ou**” du français. L’écriture **“ou”** n’existe pas en wolof; pensez donc à utiliser **u**.  
-  * bukki: hyène | murit b-: adepte de la confrérie Muridiyya | musal: préserver | musiba m-: malheur  
+    * gor: abattre, entailler, couper (un arbre ou une branche) | gor b-: espace dégagé par abattage des arbres | gor s-: homme de condition libre, homme d’honneur | goro b-: beau-père; belle-mère    
+* **ó** équivalent du “**ô / au**” en français mais de manière brève. **L’écriture `au` n’existe pas en wolof; pensez donc à utiliser `ó`**.  
+    * jóg: se lever | óbbali: bâiller | yónni: envoyer quelqu’un en mission | yóbbe: occasionner (quelque chose) à quelqu’un, causer | óom b-: genou  
+* **u** \- c’est le son **"ou"** du français. **L’écriture `ou` n’existe pas en wolof; pensez donc à utiliser `u`**.  
+    * bukki: hyène | murit b-: adepte de la confrérie Muridiyya | musal: préserver | musiba m-: malheur  
+
 * ã \- c'est le son **an** du français (voyelle nasale). On ne le voit que très rarement sur des mots wolof. Généralement cette lettre apparaît sur des mots empruntés à une langue étrangère typiquement le français  
-  * Farãas: France
+    * Farãas : France
 
 Nous verrons plus en détail les voyelles **é**, **ë**, **ó** ce sont des voyelles “lourdes”.
-
+</div>
+1. La voyelle "é" se prononce brièvement, comme toutes les voyelles simples. Pour obtenir une version longue ou prolongée de "é", on ajoute un "e" à la suite, ce qui donne "ée". De manière générale la forme prolongée des voyelles se fait en préfixant par les lettres suivantes: **`a, i, u, o` et `e`** (cf. [Chapitre 3]())
+    * e :material-arrow-right: ee
+    * a :material-arrow-right: aa
+    * i :material-arrow-right: ii
+    * é :material-arrow-right: ée
 
 [^1]: [Dictionnaire wolof-français français-wolof](https://books.google.fr/books?id=gJ8YBgAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
