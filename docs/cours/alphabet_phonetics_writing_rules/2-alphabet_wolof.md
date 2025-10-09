@@ -27,7 +27,7 @@ Quelques précisions sur certaines consonnes
 * p – paaka b-: couteau | pastéef b-: esprit de décision, volonté | pes: gifler    
 * r – **rëpptal**: faire galoper (un cheval) | **reesal**: digérer | **reelu**: être comique  
 * s – sago s-: sans-froid | sas w-: tâche | sàng: couvrir d’une couverture | sàppe s-: rangée de fidèles à la prière.  
-* t – tabax: construire, bâtir | torlu: signer | tu**dd**: nommer | tukkurmuut j-: euphorie | tusngal j-: khôl | Tata j(5) : muraille d’enceinte
+* t – tabax: construire, bâtir | torlu: signer | tu**dd**: nommer | tukkurmuut j-: euphorie | tusngal j-: khôl | tata j(5) : muraille d’enceinte
 </div>
 1. Distinguez bien la prononciation entre **bëtt** et **bët** : lorsque la consonne est doublée (géminée, ici deux `t`), sa prononciation est plus appuyée et marquée.
 2. Comme pour **bëtt**, ici la lettre **g** est doublée et doit donc être prononcée plus fortement.
@@ -102,6 +102,7 @@ Quelques précisions sur certaines consonnes
 
     * :octicons-log-16: **Exemple 1**: ndaw s**i**: la jeune femme | ndaw ñ**i**: les jeunes | ndaw l**i**: le messager | ndaw g**i**: jeunesse, virginité
     * :octicons-log-16: **Exemple 2**: xar b**i**: grand récipient en bois en forme de calebasse | xar mi: mouton | xar wi: chaque partie d’une unité fendue.
+    * :octicons-log-16: **Exemple 3**: guur wi: une canicule | guur yi <span class="annotate">(1)</span><ol><li>justement **nguur g-** qui signifie **`pouvoir régnant`, `gouvernement` ou même `royaume`** est un mot de la même famille que **guur**</li></ol>: les royautés
 
     !!! tip
         Tant qu’on y est, parlons du **"i"** qui traine. Pour un classificateur donné, l’ajout du **“i”** à la fin permet de former un article défini: si, ñi, li, gi, etc. Pour le cas indéfini, il faudra précéder le classificateur de la lettre **"a"** ou **"u"**
