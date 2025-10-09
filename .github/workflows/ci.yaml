@@ -28,6 +28,7 @@ jobs:
           sparse-checkout: |
             docs
             includes
+            overrides
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
