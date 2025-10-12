@@ -168,7 +168,8 @@ Quelques précisions sur certaines consonnes
 * Lettre **é** – Le son n’est pas équivalent au **é** du français. Également faites bien la discernation entre **“e”** et **“é”**.  
     * g**é**nn: sortir | gént g-: rêve | géex (1): roter | réew m-: pays | kéew m-: environnement | géew b-: espace délimité par des personnes formant un cercle
 
-    > Encore une fois, faites bien la différence entre "e" et "é".
+    !!! danger "Attention"
+        Encore une fois, faites bien la différence entre "e" et "é".
 
 * Lettre **ë**: c’est le son **"e"** du français comme dans d**e**main  
     * bët: oeil | fënëx: être vermoulu | gëq: régurgiter | gërëm: remercier   

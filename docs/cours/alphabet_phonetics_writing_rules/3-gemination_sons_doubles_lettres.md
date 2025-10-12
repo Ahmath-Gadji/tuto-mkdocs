@@ -2,5 +2,5 @@
 icon: simple/internetcomputer
 ---
 
-!!! info "Information" 
+!!! danger "Information" 
     Ce section est en cours d'édition
