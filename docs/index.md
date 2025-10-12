@@ -27,7 +27,7 @@ Et c’est dans cet esprit — entre le sourire et le savoir — que ce site vou
     ---
 
     Découvre les bases, les proverbes et les usages du wolof, que tu sois débutant ou curieux.  
-    [:octicons-arrow-right-24: Commencer ici](/cours/alphabet_phonetics_writing_rules/1-introduction/)
+    [:octicons-arrow-right-24: Commencer ici](./cours/alphabet_phonetics_writing_rules/1-introduction/)
 
 
 -   :simple-bloglovin:{ .middle }log __Découvre le monde fascinant des mots wolof dans mon blog__
@@ -35,5 +35,5 @@ Et c’est dans cet esprit — entre le sourire et le savoir — que ce site vou
     ---
     Découvre le monde fascinant des mots et expressions wolofs
     
-    [:octicons-arrow-right-24: Commencer ici](/blog)
+    [:octicons-arrow-right-24: Commencer ici](./blog)
 </div>
