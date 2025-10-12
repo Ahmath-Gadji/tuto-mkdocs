@@ -72,7 +72,7 @@ markdown_extensions:
 extra:
   analytics:
     provider: google
-    property: ${GOOGLE_ANALYTICS_ID}
+    property: !ENV [GOOGLE_ANALYTICS, 'G-XXXXXXXXX']
     feedback:
       title: Cette page vous a-t-elle été utile ?
       ratings:
@@ -106,7 +106,8 @@ plugins:
   - glightbox
   - social:
       cards_layout: default/accent
-  - blog:
+  - blog: 
+      blog_toc: true
       archive_date_format: yyyy
       archive_url_date_format: yyyy
       categories_allowed:
@@ -134,14 +135,15 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home: index.md
+  - Manisfesto : index.md
   - Cours wolof :
-    - "Alphabet & phonétique et règles d'écritures":
+    - "Chapitre 1: Alphabet & phonétique et règles d'écritures":
         - 'Introduction': 'cours/alphabet_phonetics_writing_rules/1-introduction.md'
         - 'Alphabet Latin Wolof': 'cours/alphabet_phonetics_writing_rules/2-alphabet_wolof.md'
+        - 'Gémination, voyelles brèves et longues': 'cours/alphabet_phonetics_writing_rules/3-gemination_sons_doubles_lettres.md'
 
   - Articles:
-      - 'Mes recents articles': blog/index.md
+      - 'Mes recents articles': 'blog/index.md'
 
 
 # https://github.com/squidfunk/mkdocs-material/discussions/2228
