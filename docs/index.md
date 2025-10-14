@@ -18,7 +18,7 @@ Mais revenons à des choses plus sérieuses (ou pas) :
 * **Et pour les mentons velus et les talons rugueux**, C’est une redécouverte : ces mots des dictons de votre grand-mère, dont vous deviniez le sens dans le contexte, mais dont l’origine et le sens littéral vous échappaient souvent.
 Je suis donc à la fois **futile, utile et instructeur**. Ce paragrpahe aussi s'inspère de l'intro d'Amadou Hampâté Bâ dans son livre: "Il n'y a pas de petite querelle". 
 
-Et c’est dans cet esprit — entre le sourire et le savoir — que ce site vous invite à redécouvrir la beauté du wolof.
+Et c’est dans cet esprit — entre le sourire et le savoir — que ce site vous invite à redécouvrir la beauté du wolof. Je vous épargne les discours sur l'utilité d'intégrer l'enseignement de notre language et sa nécessité comme pivot de developpement.
 
 <div class="grid cards" markdown>
 

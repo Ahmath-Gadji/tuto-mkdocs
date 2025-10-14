@@ -49,7 +49,7 @@ Quelques précisions sur certaines consonnes
 
     tata j- = muraille d’enceinte
     !!! quote "Citation"
-        Seen der, tata ju koy **ñoŋal** ba du yàqu mooy yar ⇒ L'éducation/politesse est la **fortification** qui vous protége (votre réputation par example) de toute atteinte/souillure. - Oustaz barham diop
+        Seen der, tata ju koy **ñoŋal** ba du yàqu mooy yar :material-arrow-right-circle: L'éducation/politesse est la **fortification** qui vous protége (votre réputation par example) de toute atteinte/souillure. - Oustaz barham diop
 
         **ñoŋal**, `verbe` = surveiller, veiller sur
 
@@ -64,18 +64,18 @@ Quelques précisions sur certaines consonnes
     !!! tip "Remarque"
         Ces mots n’ont pas été choisis par hasard. En wolof, dans beaucoup de cas, à partir d’un mot (verbe), on peut altérer la lettre **s** par **c** pour produire un nouveau nom de la même famille: on parle de **dérivation nominale** par **alternance consonantique** (on alterne une consonne par une autre) (cf. chapitre 3). 
         
-        1. **s**ant (remercier) ⇒ **c**ant g- (remerciement)  
-        2. **s**àcc (voler) ⇒ **c**àcc g- (vol)  
-        3. **s**ol (porter (un habit) ) ⇒ **c**ol g- (habillement)  
-        4. **s**oob (plaire comme quand on dit **“Ndeem soob na Yàlla”** ) ⇒ **c**oob \+ **are** \= **c**oobare g- (volonté)  
-        5. **s**uur (parfumer en brûlant de l’encens; faire une inhalation ou une fumigation) ⇒ **c**uur \+ **aay** \= **c**uuraay l- (encens)  
-        6. **s**os (créer) ⇒ **c**os \+ **aan** \= **c**osaan l- (origine, genèse)  
-        7. **s**aaf (rôtir) ⇒ **c**aaf l- (grillée comme dans gerte caaf (arachide décortiquée et grillée))
+        1. **s**ant (remercier) :material-arrow-right-circle: **c**ant g- (remerciement)  
+        2. **s**àcc (voler) :material-arrow-right-circle: **c**àcc g- (vol)  
+        3. **s**ol (porter (un habit) ) :material-arrow-right-circle: **c**ol g- (habillement)  
+        4. **s**oob (plaire comme quand on dit **“Ndeem soob na Yàlla”** ) :material-arrow-right-circle: **c**oob \+ **are** \= **c**oobare g- (volonté)  
+        5. **s**uur (parfumer en brûlant de l’encens; faire une inhalation ou une fumigation) :material-arrow-right-circle: **c**uur \+ **aay** \= **c**uuraay l- (encens)  
+        6. **s**os (créer) :material-arrow-right-circle: **c**os \+ **aan** \= **c**osaan l- (origine, genèse)  
+        7. **s**aaf (rôtir) :material-arrow-right-circle: **c**aaf l- (grillée comme dans gerte caaf (arachide décortiquée et grillée))
 
         !!! note
             Depuis le début de cette section, nous avons rencontrés des suffixes comme **`u`, `are`, `aay` et `aan`**: ce sont des suffixes Wolofs bien connus. Nous les verrons au [chapitre 3]().
 
-            > **`Astuce`**: Pour vous en souvenir, rappelez-vous juste de la relation qui existe entre les lettres **s** et **c** en français: **`elles ont parfois la même prononciation`**. En wolof, cette relation est plus profonde comme vous l’avez vue: elle est sémantique !!! D’autres lettres en wolof présentent cette même relation (cf. [chapitre 2]()) comme r et d (moyen mnémotechnique, pensez à la **R&D**) et entre f et p (pensez à ça ⇒ **f** = **p**h en français)
+            > **`Astuce`**: Pour vous en souvenir, rappelez-vous juste de la relation qui existe entre les lettres **s** et **c** en français: **`elles ont parfois la même prononciation`**. En wolof, cette relation est plus profonde comme vous l’avez vue: elle est sémantique !!! D’autres lettres en wolof présentent cette même relation (cf. [chapitre 2]()) comme r et d (moyen mnémotechnique, pensez à la **R&D**) et entre f et p (pensez à ça :material-arrow-right-circle: **f** = **p**h en français)
 
 * La lettre j: C'est approximativement ce qu’on entend en français dans **“dieu”**. Désormais pensez à l’utiliser à la place de **“di”**.   
     * **`Exemples`**:  jabar j-: épouse | jaan j-: serpent | jàmbat: se plaindre | jéem: essayer | jéex: fouiller  
@@ -89,24 +89,24 @@ Quelques précisions sur certaines consonnes
 </div>
 1.  Le suffixe **-adi** a souvent une valeur de négation, d'opposition. Exemples:
 
-    * jekk: être convenable, bien fait, élégant ⇒ jekk**`adi`**: être incorrect, mal en point, indisposé, dans la gêne
-    * jag: être correct, normal, bien arrangé, dans l’état approprié ⇒ jagadi <span class="annotate">(1)</span><ol><li>"jagadi" est aussi un terme d’évitement pour dire "être indisposé" (Avoir ses règles)</li></ol>: être anormal, en mauvais état
-    * jub ⇒ jubadi.
+    * jekk: être convenable, bien fait, élégant :material-arrow-right-circle: jekk**`adi`**: être incorrect, mal en point, indisposé, dans la gêne
+    * jag: être correct, normal, bien arrangé, dans l’état approprié :material-arrow-right-circle: jagadi <span class="annotate">(1)</span><ol><li>"jagadi" est aussi un terme d’évitement pour dire "être indisposé" (Avoir ses règles)</li></ol>: être anormal, en mauvais état
+    * jub :material-arrow-right-circle: jubadi.
     
     Ainsi **xamadi** signifie littéralement (**`ne pas savoir`**). Cependant, on l’utilise pour qualifier quelqu’un de grossier / impoli / mal élevé / **`insolent`**. Ainsi ce mot résume bien la phrase suivante ( je ne sais plus de qui ): **Ton `insolence` n'est que le reflet de ton `ignorance`**
 
 2.  Xar est utilisé pour désigner une personne en transe ou en épilepsie. Lorsqu'une telle personne retrouve sa lucidité on dit "daa **xeri**". Nous verrons les suffixes inversifs comme le suffixe **`"-i"`** au [chapitre 3](). Ceci explique justement les inversifs suivants
 
-    * xar ⇒ xeri tout comme on l'observe dans d'autres mots: 
-    * ub (fermer) ⇒ ubbi (ouvrir)
-    * xëm ⇒ xi**mm**i | sëgg ⇒ siggi | të**j** ⇒ ti**jj**i
-    * fa**s**: nouer ⇒ fe**cc**i: dénouer (rappelez de la relation entre **`s et c`** en wolof)
-    * sa**f** ⇒ sà**pp**i | xef ⇒ xippi | roo**f** ⇒ ro**pp**i (rappelez de la relation entre **`f et p`** en wolof)
-    * weer: ⇒ weri
+    * xar :material-arrow-right-circle: xeri tout comme on l'observe dans d'autres mots: 
+    * ub (fermer) :material-arrow-right-circle: ubbi (ouvrir)
+    * xëm :material-arrow-right-circle: xi**mm**i | sëgg :material-arrow-right-circle: siggi | të**j** :material-arrow-right-circle: ti**jj**i
+    * fa**s**: nouer :material-arrow-right-circle: fe**cc**i: dénouer (rappelez de la relation entre **`s et c`** en wolof)
+    * sa**f** :material-arrow-right-circle: sà**pp**i | xef :material-arrow-right-circle: xippi | roo**f** :material-arrow-right-circle: ro**pp**i (rappelez de la relation entre **`f et p`** en wolof)
+    * weer: :material-arrow-right-circle: weri
 
     Clairement dans l’inversif, il y a des règles et un schéma respecté: soit une consonne est alternée par une autre ou elle est géminée. Les voyelles ont tendance à changer.
 
-3. Justement, le terme xaru (**xar** étant la racine du mot) exprime le fait de se débattre. Cf [cet article de blog complet sur le terme `xar`]()
+3. Justement, le terme xaru (**xar** étant la racine du mot) exprime le fait de se débattre. Cf [cet article de blog complet sur le terme `xar`](/blog/x-ray)
 
 !!! question "Adressons une question que vous vous posez probablement."
 

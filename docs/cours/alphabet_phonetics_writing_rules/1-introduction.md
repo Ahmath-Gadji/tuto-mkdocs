@@ -18,8 +18,8 @@ Cette désignation renvoie probablement aux rives du Nil, selon les hypothèses 
 </div>
 1. Le préfixe **waa-** est la forme plurielle de **saa-**. Ces préfixes servent à désigner les personnes originaires d'une localité.  
     - **Exemple**: 
-      - **saa-**cees b-: le thiesois (**c** en wolof se lit **”thi”** [voir alphabet wolof](../2-alphabet_wolof)) ⇒ waa-cees: les thiesois
-      - **saa-**senegaal b-: le sénégalais ⇒ **waa-**senegaal: Sénégalais
+      - **saa-**cees b-: le thiesois (**c** en wolof se lit **”thi”** [voir alphabet wolof](../2-alphabet_wolof)) :material-arrow-right-circle: waa-cees: les thiesois
+      - **saa-**senegaal b-: le sénégalais :material-arrow-right-circle: **waa-**senegaal: Sénégalais
 
 2. **laf**, `verbe` : signifie littéralement **poser contre**, **mettre de côté** ou **préserver**. Justement le terme **lafal** dans la phrase populaire "Yal na ko Yàlla **laf**al loolu" (Que Dieu le préserve de cela) est dérivé de **laf**.
     - **Lafu** = **`laf`** + u, `verbe`: signifie se mettre de côté, se placer latéralement.
