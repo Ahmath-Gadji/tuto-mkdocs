@@ -10,6 +10,9 @@ Notre exploration de l'alphabet Wolof débute ainsi. La maîtrise de cet alphabe
 * **`consonnes`**: b - c - d - f -g - h - j - k - l - m - n - ñ - ŋ - p - q - r - s - t - w - x - y.  
 * **`voyelles`**: a - i - u - o - e
 
+### Voici une vidéo de présentation de l'alphabet latin Wolof
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6BRORS1C5o?si=QI5dkdsERuPZj3e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 1. Les consonnes
 Quelques précisions sur certaines consonnes
 
