@@ -12,6 +12,7 @@ theme:
   features:
     - navigation.footer
     - header.autohide
+    - toc.follow
     - navigation.tracking
     - navigation.indexes
     - navigation.tabs
@@ -63,6 +64,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.critic
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -72,7 +74,7 @@ markdown_extensions:
 extra:
   analytics:
     provider: google
-    property: !ENV [GOOGLE_ANALYTICS, 'G-XXXXXXXXX']
+    property: ${GOOGLE_ANALYTICS_ID}
     feedback:
       title: Cette page vous a-t-elle été utile ?
       ratings:
